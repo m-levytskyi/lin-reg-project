@@ -11,6 +11,6 @@ metadata:
   name: linregapp-pod
 spec:
   containers:
-  - image: localhost/linreg-app:latest
+  - image: mlevytskyi089/linreg-app:latest
     name: linregapp
 
